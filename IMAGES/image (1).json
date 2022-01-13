@@ -7,15 +7,15 @@
     "attributes": [
       {
         "trait_type": "background",
-        "value": "polka dot tie dye"
+        "value": "blue"
       },
       {
         "trait_type": "face",
-        "value": "happy"
+        "value": "worried smile"
      },
      {
         "trait_type": "hair",
-        "value": "none"
+        "value": "comb over"
      },
      {
         "trait_type": "text",
@@ -23,7 +23,7 @@
      },
      {
         "trait_type": "shirt",
-        "value": "orange"
+        "value": "white button up"
       }
     ],
     "collection": {
