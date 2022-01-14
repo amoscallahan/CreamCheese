@@ -1,0 +1,48 @@
+{
+    "name": "Cheese 120",
+    "symbol": "",
+    "description": "Celebratory Cream Cheese NFT",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "tie dye"
+      },
+      {
+        "trait_type": "face",
+        "value": "happy"
+     },
+     {
+        "trait_type": "hair",
+        "value": "none"
+     },
+     {
+        "trait_type": "text",
+        "value": "none"
+     },
+     {
+        "trait_type": "shirt",
+        "value": "orange"
+      }
+    ],
+    "collection": {
+       "name": "Cream Cheese",
+       "family": "0802"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "video",
+      "creators": [
+        {
+          "address": "HbbcEXqSfEAqDn8ZYLY5nyDwD14uhCderF1FQodXnM36",
+          "share": 100
+        }
+      ]
+    }
+  }
