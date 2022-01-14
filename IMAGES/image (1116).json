@@ -1,0 +1,36 @@
+{
+  "name": "Cheese 0",
+  "symbol": "",
+  "description": "Cream Cheese Collection",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "shirt color",
+      "value": "orange"
+    },
+    {
+      "trait_type": "text",
+      "value": "no"
+   }
+  ],
+  "collection": {
+     "name": "CreamCheese",
+     "family": "0802"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HbbcEXqSfEAqDn8ZYLY5nyDwD14uhCderF1FQodXnM36",
+        "share": 100
+      }
+    ]
+  }
+}
