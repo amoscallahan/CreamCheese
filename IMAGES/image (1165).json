@@ -1,5 +1,5 @@
 {
-  "name": "Cheese 0",
+  "name": "Cheese 1165",
   "symbol": "",
   "description": "Cream Cheese Collection",
   "seller_fee_basis_points": 1000,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "shirt color",
-      "value": "orange"
+      "value": "Purple"
     },
     {
       "trait_type": "text",
-      "value": "no"
+      "value": "yes"
    }
   ],
   "collection": {
